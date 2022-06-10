@@ -1,0 +1,2 @@
+# Mobile-shop-Management-System
+Mobile shop Management System is a software application designed to manage sundry types of works included in showrooms like billing, sales, report generation, updating stock details, purchase records for daily, weekly, monthly and yearly as per convenience. This app is developed and designed in-order to help the shopkeepers by providing them with an easy way to manage all the business activities in their shop.
