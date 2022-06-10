@@ -17,9 +17,13 @@ But in the Proposed the project contains all the above features with online shop
 ## Languages used
 ### Front end
 • HTML
+
 • BOOTSTRAP
+
 • JavaScript
+
 • CSS
 ### Back end
 • MySQL
+
 • PHP
