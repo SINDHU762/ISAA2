@@ -14,6 +14,7 @@ It includes the following features :
 • As an admin shopkeepers can access , monitor and manage the entire activities of the shop.
 But in the Proposed the project contains all the above features with online shopping facilities like Flipkart, Amazon ...etc. These facilities which provides the user can login and buying the products through online.
 
+
 ## Languages used
 ### Front end
 • HTML
@@ -27,3 +28,8 @@ But in the Proposed the project contains all the above features with online shop
 • MySQL
 
 • PHP
+
+## More details
+
+* [Abstract](https://github.com/sreeradham/Mobile-shop-Management-System/blob/main/project_details/ABSTRACT.pdf)
+* [SRS]
