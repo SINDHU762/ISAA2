@@ -32,4 +32,4 @@ But in the Proposed the project contains all the above features with online shop
 ## More details
 
 * [Abstract](https://github.com/sreeradham/Mobile-shop-Management-System/blob/main/project_details/ABSTRACT.pdf)
-* [SRS]
+* [SRS](https://github.com/sreeradham/Mobile-shop-Management-System/blob/main/project_details/SOFTWARE%20REQUIREMENT%20SYSTEM.pdf))
