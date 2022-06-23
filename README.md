@@ -33,3 +33,4 @@ But in the Proposed the project contains all the above features with online shop
 
 * [Abstract](https://github.com/sreeradham/Mobile-shop-Management-System/blob/main/project_details/ABSTRACT.pdf)
 * [Software Requirement System](https://github.com/sreeradham/Mobile-shop-Management-System/blob/main/project_details/SOFTWARE%20REQUIREMENT%20SYSTEM.pdf)
+* [ER Diagram](https://github.com/sreeradham/Mobile-shop-Management-System/blob/main/project_details/ER%20Diagram.jpg)
